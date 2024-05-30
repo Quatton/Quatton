@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Quatton">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Quatton&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quatton&theme=tokyonight&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quatton&theme=tokyonight&layout=compact&hide=VHDL,Tcl,Verilog,Jupyter%20Notebook" />
 </a>
